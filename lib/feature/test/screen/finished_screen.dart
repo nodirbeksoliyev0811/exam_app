@@ -1,4 +1,4 @@
-import 'package:exam_app/feature/global/test/bloc/test_bloc.dart';
+import 'package:exam_app/feature/test/bloc/test_bloc.dart';
 import 'package:exam_app/service/di/di.dart';
 import 'package:exam_app/service/storage/secure_storage.dart';
 import 'package:exam_app/value/colors.dart';

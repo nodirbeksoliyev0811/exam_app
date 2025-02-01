@@ -1,6 +1,6 @@
 import 'package:exam_app/feature/global/screen/not_found/not_found_screen.dart';
-import 'package:exam_app/feature/global/test/screen/finished_screen.dart';
-import 'package:exam_app/feature/global/test/screen/test_screen.dart';
+import 'package:exam_app/feature/test/screen/finished_screen.dart';
+import 'package:exam_app/feature/test/screen/test_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

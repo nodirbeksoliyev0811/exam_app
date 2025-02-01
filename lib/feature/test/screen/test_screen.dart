@@ -1,5 +1,5 @@
-import 'package:exam_app/feature/global/test/bloc/test_bloc.dart';
-import 'package:exam_app/feature/global/test/widget/top_bar.dart';
+import 'package:exam_app/feature/test/bloc/test_bloc.dart';
+import 'package:exam_app/feature/test/widget/top_bar.dart';
 import 'package:exam_app/value/colors.dart';
 import 'package:exam_app/value/components.dart';
 import 'package:exam_app/value/extensions.dart';
